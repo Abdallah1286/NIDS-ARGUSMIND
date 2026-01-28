@@ -80,9 +80,6 @@ Note: Do not store or expose private network captures in the repository. Use san
 - Centralized cloud dashboard for multi-site monitoring.
 - Expand training using public IoT attack datasets.
 
-## Contributing
-Contributions, bug reports, and feature requests are welcome — please open an issue or submit a PR. Include tests and updated docs where applicable.
-
 
 ## Contact
 
