@@ -1,6 +1,6 @@
 # 🛡️ ArgusMind — Intelligent Network Vigilance
 
-ArgusMind is a lightweight, real-time Network Intrusion Detection System (NIDS) designed to protect networked devices and IoT ecosystems from evolving threats such as botnets, DoS/DDoS, port scanning, and unauthorized access.
+ArgusMind is a lightweight, real-time Network Intrusion Detection System (NIDS) designed to protect networked devices and IoT ecosystems from evolving threats such as botnets, DoS/DDoS, port scanning,[...]
 
 ## Key Features
 - Hybrid detection: signature-based + anomaly-based machine learning (XGBoost).
@@ -87,4 +87,8 @@ Contributions, bug reports, and feature requests are welcome — please open an 
 MIT License — see LICENSE file.
 
 ## Contact
-For questions or collaborations, open an issue or contact the maintainer: [Abdallah1286](https://github.com/Abdallah1286).
+
+Abdalla Osama Mohamed
+
+- Email: [ao62811@gmail.com](mailto:ao62811@gmail.com)
+- LinkedIn: [Abdullah Osama](https://www.linkedin.com/in/abdullah-osama-a5bb4839a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf1WlSKQHRMSzMAwPqQ%2FYig%3D%3D)
